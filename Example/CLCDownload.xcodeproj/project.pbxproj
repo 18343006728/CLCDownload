@@ -28,9 +28,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0D5DA0E75B01CFA0CA97D9D9 /* CLCDownload.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = CLCDownload.podspec; path = ../CLCDownload.podspec; sourceTree = "<group>"; };
+		0D5DA0E75B01CFA0CA97D9D9 /* CLCDownload.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CLCDownload.podspec; path = ../CLCDownload.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		37A6E4FBD4407CFC846507DB /* Pods-CLCDownload_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CLCDownload_Example.debug.xcconfig"; path = "Target Support Files/Pods-CLCDownload_Example/Pods-CLCDownload_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		59A42DABD31F1A188645AB2A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		59A42DABD31F1A188645AB2A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* CLCDownload_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CLCDownload_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		ACB18CC06EB38932041F6E1F /* Pods-CLCDownload_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CLCDownload_Example.release.xcconfig"; path = "Target Support Files/Pods-CLCDownload_Example/Pods-CLCDownload_Example.release.xcconfig"; sourceTree = "<group>"; };
 		D14EDBECAED28867A40F4FA0 /* Pods_CLCDownload_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CLCDownload_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D6752167E54AB4BA69CA7E45 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		D6752167E54AB4BA69CA7E45 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		D7FC4E70D0BC84303D963D73 /* Pods-CLCDownload_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CLCDownload_Tests.release.xcconfig"; path = "Target Support Files/Pods-CLCDownload_Tests/Pods-CLCDownload_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		EA08B061D213CFF4983B7AB6 /* Pods-CLCDownload_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CLCDownload_Tests.debug.xcconfig"; path = "Target Support Files/Pods-CLCDownload_Tests/Pods-CLCDownload_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		EBA8341FE3EF73FE55F3392F /* Pods_CLCDownload_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CLCDownload_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -147,7 +147,6 @@
 				EA08B061D213CFF4983B7AB6 /* Pods-CLCDownload_Tests.debug.xcconfig */,
 				D7FC4E70D0BC84303D963D73 /* Pods-CLCDownload_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -228,6 +227,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

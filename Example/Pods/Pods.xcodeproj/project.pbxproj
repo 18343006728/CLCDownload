@@ -8,32 +8,32 @@
 
 /* Begin PBXBuildFile section */
 		00224C929D57F45B70E87359E719948D /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = FEE661E58CA6655B39AA49AA4C021C33 /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0A48D6C2B55D01AE4AE42EE0454D2DA0 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBB14C66C569E23DB5F6E9990C29100 /* ReplaceMe.swift */; };
 		11C410135C7E89353B480AC8DE0BFB77 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F538C426803AE34255FC6E35B408CCA /* UIApplication+StrictKeyWindow.m */; };
 		121439AB6B4061E1B6222256817548FA /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E658F388F01C72599CA75537950B6095 /* XCTest.framework */; };
 		14AD81D52FAD9CF2C065C61FB00C3B4F /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = 4568279DE47DC3AB91598E1317503995 /* UIImage+Diff.m */; };
 		2DCFF0CE0BD295F1D46D3247F36B192C /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = 235A78CFFA6D8B8D86CACD733531CB13 /* UIImage+Compare.m */; };
 		2E4C0BD2363ABABB6470FBA5415985AA /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3280BB5E7B57C31D41117A74F76E9DF3 /* QuartzCore.framework */; };
 		33DAE733B8F986632E823B61E394C6E6 /* Pods-CLCDownload_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F8CD78FAD59EB71B818FA827BA911CEF /* Pods-CLCDownload_Example-dummy.m */; };
-		3DBF2FA122834AD0EB681DE198679E81 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */; };
 		40039E0AF0D764360B1D4FC4F7950D2E /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = 99A67367E018411D614EC8536A8A1C5B /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		4AF4660A03E3C95B0A30B3F406EF8FD2 /* Pods-CLCDownload_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B5481DB6C6DD5670C77181F7918884E2 /* Pods-CLCDownload_Tests-dummy.m */; };
-		5605DDC6C66B68F4210EFAB13800F1EC /* CLCDownload-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FCE700F746BB225A6FBF29C63BCFA05 /* CLCDownload-dummy.m */; };
 		6D8C34C582EAF12181D888974B753390 /* Pods-CLCDownload_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 915A7770A6F949E040E87317F433FFE9 /* Pods-CLCDownload_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6DBC8EB7532E931C2FBDA71D1E0B66A4 /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ADA6E655DC84D06359BD0ED5E36C783 /* FBSnapshotTestCase-dummy.m */; };
+		7B4BCAB163E202A701A25190C4D4506E /* CLCDownload-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 202138CB1BF94FD18F20794776129000 /* CLCDownload-dummy.m */; };
+		87DBB39C35A49DD634795BB2A6BD9498 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */; };
 		88396E68DC05A379282F3B374F75F43C /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E1B7EA746BF6557FD565BAE12AF9198 /* FBSnapshotTestController.m */; };
 		8CE3BF0ACE07EA42DD5DAC871BF4B767 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 277B6BE10C665F515606A22FD60C6DCC /* FBSnapshotTestCase.m */; };
 		90142C6259374E18E640396A59AD379A /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = AE9FF9459FBCDC4AF88FB6B5A4CC1439 /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		988C75EB9339FC6A2563F66FB2B8EF7B /* CLCDownload-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CE456C535971D81F1CB0F0FE6C3CE90C /* CLCDownload-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9D65089019D558E5A9661F2DCAD20313 /* SwiftSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0D66CF296ABBC57EC4D0452397E235 /* SwiftSupport.swift */; };
-		9F7190AB0A2FAAF08F533A23D096EF9D /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = C96E0EF5F63E31C920E4C1E2988F8E89 /* ReplaceMe.swift */; };
 		A525E29E0A8079B35B793D8A2B5FBDF2 /* UIImage+Snapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = D872A3EE224412D4057C234FBC629F9C /* UIImage+Snapshot.m */; };
-		B25636B4265B55FC003CE196 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25636B3265B55FC003CE196 /* TestViewController.swift */; };
+		AB229748A026C14F2A396B35F9154F4F /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FAAF6BA3F58F46A90A83063B99CE43F /* TestViewController.swift */; };
 		B74CD6E6EBEA0B642776BCB37850415D /* UIImage+Snapshot.h in Headers */ = {isa = PBXBuildFile; fileRef = 284833D18C244D2B42966B6EE425AA59 /* UIImage+Snapshot.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		BD4953074A12E769ED4E6C94F5E73694 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DA24A38BA9EE106B59E3D4C8DD1CE0E /* UIKit.framework */; };
 		BD61C4477D4646474E85A58D601CC745 /* Pods-CLCDownload_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D1964A8B33739605081C757CC139CB38 /* Pods-CLCDownload_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C49D52712466511E332C952834C81FE1 /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = 88B1DEEBF6316A84D7413645212492FF /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CA63ADACAC6C2BF1E30108E6BEF68A09 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */; };
 		D04AAC8B22E4A4DC4F39891C4E52F251 /* UIImage+Diff.h in Headers */ = {isa = PBXBuildFile; fileRef = 96187BF3038121CC146335E9FF0B0AFF /* UIImage+Diff.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		D8BE6DCE76B7FF57F298857BB03D35B6 /* CLCDownload-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B097853D66F6EA68111BA4AC9DCBED6A /* CLCDownload-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E8AC509D18EBF21B1FEA909652A01108 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = 6ABB3EB3CCC5BCA82F40FE8DC87BB778 /* FBSnapshotTestCasePlatform.m */; };
 		F176D43FD0F68FE93938DEC98BCD444C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */; };
 		F1AAAE00BB32B733B238E2B4E8424506 /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = 656116C8FA5458F45D4707110C9530EC /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -42,26 +42,26 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		5F4E9C150B95017641DAB022A88CC202 /* PBXContainerItemProxy */ = {
+		2E3F821FF26C1BC1963C69DBC79B1E1F /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B0BAB2F8026DDFA242AF86CDCA7E792F;
-			remoteInfo = "Pods-CLCDownload_Example";
+			remoteGlobalIDString = 98A98149697C80CEF8D5772791E92E66;
+			remoteInfo = FBSnapshotTestCase;
 		};
-		637B6703233522734E7DDD046F2F1F43 /* PBXContainerItemProxy */ = {
+		B592DBA0CE21189111ADB8FEF783F5F3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = C7889358B7C87A2AD2C30279898D5442;
 			remoteInfo = CLCDownload;
 		};
-		F8CD5D238BAC9D35A4DC1DD739848014 /* PBXContainerItemProxy */ = {
+		ED2D1B0849BE694B984F1B243874F73A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 98A98149697C80CEF8D5772791E92E66;
-			remoteInfo = FBSnapshotTestCase;
+			remoteGlobalIDString = B0BAB2F8026DDFA242AF86CDCA7E792F;
+			remoteInfo = "Pods-CLCDownload_Example";
 		};
 /* End PBXContainerItemProxy section */
 
@@ -71,26 +71,28 @@
 		17179CCBFD85A6AE35631D77E3E8D352 /* Pods-CLCDownload_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CLCDownload_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		1ADA6E655DC84D06359BD0ED5E36C783 /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
 		1DA24A38BA9EE106B59E3D4C8DD1CE0E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		1FCE700F746BB225A6FBF29C63BCFA05 /* CLCDownload-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CLCDownload-dummy.m"; sourceTree = "<group>"; };
+		1FAAF6BA3F58F46A90A83063B99CE43F /* TestViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TestViewController.swift; path = CLCDownload/Classes/TestViewController.swift; sourceTree = "<group>"; };
+		202138CB1BF94FD18F20794776129000 /* CLCDownload-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CLCDownload-dummy.m"; sourceTree = "<group>"; };
 		235A78CFFA6D8B8D86CACD733531CB13 /* UIImage+Compare.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Compare.m"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.m"; sourceTree = "<group>"; };
 		277B6BE10C665F515606A22FD60C6DCC /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
-		27BAAF148D6D3EE73DE0875059098CC0 /* CLCDownload.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CLCDownload.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		27BAAF148D6D3EE73DE0875059098CC0 /* CLCDownload.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CLCDownload.framework; path = CLCDownload.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		284833D18C244D2B42966B6EE425AA59 /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
+		29F61988988E62FF8261057ACABC8BB7 /* CLCDownload.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CLCDownload.release.xcconfig; sourceTree = "<group>"; };
 		3280BB5E7B57C31D41117A74F76E9DF3 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
 		3F0D66CF296ABBC57EC4D0452397E235 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
+		40B667A381A28BDC23C471BBC5786477 /* CLCDownload.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CLCDownload.modulemap; sourceTree = "<group>"; };
 		4568279DE47DC3AB91598E1317503995 /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
 		4C6513B09838318BD763CFD5390D1DE0 /* FBSnapshotTestCase.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.release.xcconfig; sourceTree = "<group>"; };
 		5034409B10B41AB93CA66A249A7EBADA /* Pods-CLCDownload_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CLCDownload_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		556A8B0167DCDABC1FCA99A6B094BA69 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		579737C1008C5D1EFC2294AD7C2D6BFC /* Pods-CLCDownload_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CLCDownload_Tests.modulemap"; sourceTree = "<group>"; };
-		5C4F31330DFA99D699E4BDC8C3573D73 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		649CD572C239C58AF31217D710586CD2 /* CLCDownload.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CLCDownload.release.xcconfig; sourceTree = "<group>"; };
+		5C4F31330DFA99D699E4BDC8C3573D73 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		656116C8FA5458F45D4707110C9530EC /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
 		6ABB3EB3CCC5BCA82F40FE8DC87BB778 /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
 		74B3D4BD9BA6A75D0AD69C262CC39A6F /* Pods-CLCDownload_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CLCDownload_Example-frameworks.sh"; sourceTree = "<group>"; };
 		7E1B7EA746BF6557FD565BAE12AF9198 /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
-		87E08C3FE90E76F6C4D8AEF0DFF7629A /* CLCDownload.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = CLCDownload.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		7EC69522F187C9F733D2933ADD793096 /* CLCDownload.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CLCDownload.debug.xcconfig; sourceTree = "<group>"; };
+		86B547E13F442910993443CA6CB73E96 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		88B1DEEBF6316A84D7413645212492FF /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
 		8E5923010B02074CAA9AAF6EA02D66AA /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
 		915A7770A6F949E040E87317F433FFE9 /* Pods-CLCDownload_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CLCDownload_Tests-umbrella.h"; sourceTree = "<group>"; };
@@ -98,31 +100,29 @@
 		952427816D16A63C72A3F6665A8CE1D0 /* Pods-CLCDownload_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CLCDownload_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		96187BF3038121CC146335E9FF0B0AFF /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
 		99A67367E018411D614EC8536A8A1C5B /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
-		9AF4E098CD8A2069D597B022E9DEA967 /* CLCDownload.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CLCDownload.modulemap; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A10367A3CFDD9BED56AAE6459A35E96D /* CLCDownload-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "CLCDownload-Info.plist"; sourceTree = "<group>"; };
 		A41A98DDB331F0656F978F59A45458C2 /* Pods-CLCDownload_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CLCDownload_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		AE9FF9459FBCDC4AF88FB6B5A4CC1439 /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
+		AFBB14C66C569E23DB5F6E9990C29100 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = CLCDownload/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
+		B097853D66F6EA68111BA4AC9DCBED6A /* CLCDownload-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CLCDownload-umbrella.h"; sourceTree = "<group>"; };
 		B13054923ED2D7CD042FF43183F7E47C /* Pods-CLCDownload_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CLCDownload_Tests-Info.plist"; sourceTree = "<group>"; };
-		B25636B3265B55FC003CE196 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		B45C4AA0D3242AAEF623B4455B0312CB /* Pods-CLCDownload_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CLCDownload_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		B5481DB6C6DD5670C77181F7918884E2 /* Pods-CLCDownload_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CLCDownload_Tests-dummy.m"; sourceTree = "<group>"; };
 		B7103CA00AED20722C5B69CA5B4F6938 /* FBSnapshotTestCase-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FBSnapshotTestCase-Info.plist"; sourceTree = "<group>"; };
-		C00B68CFDB2B96FED02D82C769B71FD2 /* CLCDownload-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "CLCDownload-Info.plist"; sourceTree = "<group>"; };
-		C96E0EF5F63E31C920E4C1E2988F8E89 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = CLCDownload/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
+		C14345C2A149344C4CC25C22392278B6 /* CLCDownload-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CLCDownload-prefix.pch"; sourceTree = "<group>"; };
+		C6DDEB014AE5F8A9D4C6BEEF87B805E9 /* CLCDownload.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = CLCDownload.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		CBFF6C5FD9C3A84274A9314D3E940B6E /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
-		CE456C535971D81F1CB0F0FE6C3CE90C /* CLCDownload-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CLCDownload-umbrella.h"; sourceTree = "<group>"; };
 		D08CEBB9BDD9EF7A662ECFC0305C169E /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
 		D1964A8B33739605081C757CC139CB38 /* Pods-CLCDownload_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CLCDownload_Example-umbrella.h"; sourceTree = "<group>"; };
+		D48E49C4AD2C2BA9DEA71511EE4F6751 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		D872A3EE224412D4057C234FBC629F9C /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
 		D8CC8C7A3292E731D77164D79658A15E /* Pods-CLCDownload_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CLCDownload_Example.modulemap"; sourceTree = "<group>"; };
 		E12D2D5D462BE04B81FDBEDF240A5BC6 /* Pods-CLCDownload_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CLCDownload_Example-Info.plist"; sourceTree = "<group>"; };
-		E515916B48A00D17F5659D539512C91A /* Pods_CLCDownload_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CLCDownload_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E515916B48A00D17F5659D539512C91A /* Pods_CLCDownload_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CLCDownload_Example.framework; path = "Pods-CLCDownload_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E658F388F01C72599CA75537950B6095 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		E7C19892684E3F1D6B68057DCA2E67C8 /* CLCDownload-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CLCDownload-prefix.pch"; sourceTree = "<group>"; };
-		E7C6D0FC5D007B0D703BAA134AF1DDD7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		F2B6447A701B80C233C0BC13462C2E4F /* Pods-CLCDownload_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CLCDownload_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		F52775235A1F607752519FA72CE8B846 /* Pods_CLCDownload_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CLCDownload_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F54E660F79A5221C48EA98C32B70C0AE /* CLCDownload.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CLCDownload.debug.xcconfig; sourceTree = "<group>"; };
+		F52775235A1F607752519FA72CE8B846 /* Pods_CLCDownload_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CLCDownload_Tests.framework; path = "Pods-CLCDownload_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8CD78FAD59EB71B818FA827BA911CEF /* Pods-CLCDownload_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CLCDownload_Example-dummy.m"; sourceTree = "<group>"; };
 		FA904790A34880B900547A217D01B7BA /* Pods-CLCDownload_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CLCDownload_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		FEE661E58CA6655B39AA49AA4C021C33 /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
@@ -130,14 +130,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4811E90223E194019DAAB972461E1DDA /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3DBF2FA122834AD0EB681DE198679E81 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		53A973128DD4E37C02678051903CB9DC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -165,6 +157,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		F29B664C5E595B8F33DADBF4865B2BF4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				87DBB39C35A49DD634795BB2A6BD9498 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -177,31 +177,14 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		25F522643BE1F0716D7093DE07959524 /* CLCDownload */ = {
+		3430E546B49CC26531CD3E584D2C1B49 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				C96E0EF5F63E31C920E4C1E2988F8E89 /* ReplaceMe.swift */,
-				B25636B3265B55FC003CE196 /* TestViewController.swift */,
-				F36B132753036DEB01704AFFDADADDC2 /* Pod */,
-				2DB86AFD60A35AC6603E2F5BD46BCC16 /* Support Files */,
+				C6DDEB014AE5F8A9D4C6BEEF87B805E9 /* CLCDownload.podspec */,
+				D48E49C4AD2C2BA9DEA71511EE4F6751 /* LICENSE */,
+				86B547E13F442910993443CA6CB73E96 /* README.md */,
 			);
-			name = CLCDownload;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		2DB86AFD60A35AC6603E2F5BD46BCC16 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				9AF4E098CD8A2069D597B022E9DEA967 /* CLCDownload.modulemap */,
-				1FCE700F746BB225A6FBF29C63BCFA05 /* CLCDownload-dummy.m */,
-				C00B68CFDB2B96FED02D82C769B71FD2 /* CLCDownload-Info.plist */,
-				E7C19892684E3F1D6B68057DCA2E67C8 /* CLCDownload-prefix.pch */,
-				CE456C535971D81F1CB0F0FE6C3CE90C /* CLCDownload-umbrella.h */,
-				F54E660F79A5221C48EA98C32B70C0AE /* CLCDownload.debug.xcconfig */,
-				649CD572C239C58AF31217D710586CD2 /* CLCDownload.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/CLCDownload";
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		4BA2479549DD918290454B1CDCD0B92B /* Core */ = {
@@ -261,10 +244,10 @@
 			name = SwiftSupport;
 			sourceTree = "<group>";
 		};
-		A92FEADBA32FC67735588A81D1FCA51D /* Development Pods */ = {
+		93F634460EDC443B2AD4D9FDFE0B5F86 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				25F522643BE1F0716D7093DE07959524 /* CLCDownload */,
+				E4BE182A23BAFC09645E3DE24B255040 /* CLCDownload */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -284,6 +267,21 @@
 			path = "../Target Support Files/FBSnapshotTestCase";
 			sourceTree = "<group>";
 		};
+		B94B8A66B22768BC4BC6E0B247BDBEFA /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				40B667A381A28BDC23C471BBC5786477 /* CLCDownload.modulemap */,
+				202138CB1BF94FD18F20794776129000 /* CLCDownload-dummy.m */,
+				A10367A3CFDD9BED56AAE6459A35E96D /* CLCDownload-Info.plist */,
+				C14345C2A149344C4CC25C22392278B6 /* CLCDownload-prefix.pch */,
+				B097853D66F6EA68111BA4AC9DCBED6A /* CLCDownload-umbrella.h */,
+				7EC69522F187C9F733D2933ADD793096 /* CLCDownload.debug.xcconfig */,
+				29F61988988E62FF8261057ACABC8BB7 /* CLCDownload.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/CLCDownload";
+			sourceTree = "<group>";
+		};
 		BA4F31F07263C99FC76E66D632A59F09 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -299,6 +297,7 @@
 				B69B2ECE2D2C9A3924A9231138CE0BBC /* Support Files */,
 				906402ECC4C6C5EB58DD365FD2C64E92 /* SwiftSupport */,
 			);
+			name = FBSnapshotTestCase;
 			path = FBSnapshotTestCase;
 			sourceTree = "<group>";
 		};
@@ -306,12 +305,24 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				A92FEADBA32FC67735588A81D1FCA51D /* Development Pods */,
+				93F634460EDC443B2AD4D9FDFE0B5F86 /* Development Pods */,
 				BA4F31F07263C99FC76E66D632A59F09 /* Frameworks */,
 				E81A37DBDE41E671312C56736544E2FA /* Pods */,
 				6E50E0970D069B22B72C29D6554169ED /* Products */,
 				06109F40D337EB9FBF2B51F99440CD51 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		E4BE182A23BAFC09645E3DE24B255040 /* CLCDownload */ = {
+			isa = PBXGroup;
+			children = (
+				AFBB14C66C569E23DB5F6E9990C29100 /* ReplaceMe.swift */,
+				1FAAF6BA3F58F46A90A83063B99CE43F /* TestViewController.swift */,
+				3430E546B49CC26531CD3E584D2C1B49 /* Pod */,
+				B94B8A66B22768BC4BC6E0B247BDBEFA /* Support Files */,
+			);
+			name = CLCDownload;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		E81A37DBDE41E671312C56736544E2FA /* Pods */ = {
@@ -320,16 +331,6 @@
 				BD2D60DE56CBB8C87BA07E0C1CCD0592 /* FBSnapshotTestCase */,
 			);
 			name = Pods;
-			sourceTree = "<group>";
-		};
-		F36B132753036DEB01704AFFDADADDC2 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				87E08C3FE90E76F6C4D8AEF0DFF7629A /* CLCDownload.podspec */,
-				E7C6D0FC5D007B0D703BAA134AF1DDD7 /* LICENSE */,
-				556A8B0167DCDABC1FCA99A6B094BA69 /* README.md */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 		FB2668559AE577E6E8078C0C291AD417 /* iOS */ = {
@@ -371,14 +372,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		17249D6F301A22EA0C31AF5A99305219 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				988C75EB9339FC6A2563F66FB2B8EF7B /* CLCDownload-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		384DE8A8021C5DA5E256BCFEC3D478A9 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -391,6 +384,14 @@
 				F1AAAE00BB32B733B238E2B4E8424506 /* UIImage+Compare.h in Headers */,
 				D04AAC8B22E4A4DC4F39891C4E52F251 /* UIImage+Diff.h in Headers */,
 				B74CD6E6EBEA0B642776BCB37850415D /* UIImage+Snapshot.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		96B734E3D9E70120A82E93DEBE9CA08D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8BE6DCE76B7FF57F298857BB03D35B6 /* CLCDownload-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -417,8 +418,8 @@
 			buildRules = (
 			);
 			dependencies = (
-				FA96641F138BB2AE75B14FB397F0F9EF /* PBXTargetDependency */,
-				8ACA9E5E8140F32A8F7B9A1F1CD7A4BE /* PBXTargetDependency */,
+				277823F8B864548C8B0BD83726BE2697 /* PBXTargetDependency */,
+				3558AFFF7D99580243EE07E92B2E590D /* PBXTargetDependency */,
 			);
 			name = "Pods-CLCDownload_Tests";
 			productName = "Pods-CLCDownload_Tests";
@@ -455,7 +456,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				40FD86916055839BC56F5CCCDDE52289 /* PBXTargetDependency */,
+				88353EF5F813BCFA01EA1B078E8B142E /* PBXTargetDependency */,
 			);
 			name = "Pods-CLCDownload_Example";
 			productName = "Pods-CLCDownload_Example";
@@ -464,12 +465,12 @@
 		};
 		C7889358B7C87A2AD2C30279898D5442 /* CLCDownload */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 009A8DAF828C164B519F1B0EC4EFABA2 /* Build configuration list for PBXNativeTarget "CLCDownload" */;
+			buildConfigurationList = D9E85C87161B1CD2038F2D8BD3BA5C69 /* Build configuration list for PBXNativeTarget "CLCDownload" */;
 			buildPhases = (
-				17249D6F301A22EA0C31AF5A99305219 /* Headers */,
-				1C0E39EBE06E2E6142B5743006FF902C /* Sources */,
-				4811E90223E194019DAAB972461E1DDA /* Frameworks */,
-				A842B225004839C67A4DC4401B408FE9 /* Resources */,
+				96B734E3D9E70120A82E93DEBE9CA08D /* Headers */,
+				6DC8F35C47B8141D11055D2642F75B3F /* Sources */,
+				F29B664C5E595B8F33DADBF4865B2BF4 /* Frameworks */,
+				61B1B29F8B30FDA8E3D9F21D6D3538FD /* Resources */,
 			);
 			buildRules = (
 			);
@@ -518,14 +519,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		802A0C44C69D205970B4B71A93F91721 /* Resources */ = {
+		61B1B29F8B30FDA8E3D9F21D6D3538FD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A842B225004839C67A4DC4401B408FE9 /* Resources */ = {
+		802A0C44C69D205970B4B71A93F91721 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -542,13 +543,13 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1C0E39EBE06E2E6142B5743006FF902C /* Sources */ = {
+		6DC8F35C47B8141D11055D2642F75B3F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5605DDC6C66B68F4210EFAB13800F1EC /* CLCDownload-dummy.m in Sources */,
-				B25636B4265B55FC003CE196 /* TestViewController.swift in Sources */,
-				9F7190AB0A2FAAF08F533A23D096EF9D /* ReplaceMe.swift in Sources */,
+				7B4BCAB163E202A701A25190C4D4506E /* CLCDownload-dummy.m in Sources */,
+				0A48D6C2B55D01AE4AE42EE0454D2DA0 /* ReplaceMe.swift in Sources */,
+				AB229748A026C14F2A396B35F9154F4F /* TestViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -587,30 +588,30 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		40FD86916055839BC56F5CCCDDE52289 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = CLCDownload;
-			target = C7889358B7C87A2AD2C30279898D5442 /* CLCDownload */;
-			targetProxy = 637B6703233522734E7DDD046F2F1F43 /* PBXContainerItemProxy */;
-		};
-		8ACA9E5E8140F32A8F7B9A1F1CD7A4BE /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-CLCDownload_Example";
-			target = B0BAB2F8026DDFA242AF86CDCA7E792F /* Pods-CLCDownload_Example */;
-			targetProxy = 5F4E9C150B95017641DAB022A88CC202 /* PBXContainerItemProxy */;
-		};
-		FA96641F138BB2AE75B14FB397F0F9EF /* PBXTargetDependency */ = {
+		277823F8B864548C8B0BD83726BE2697 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = FBSnapshotTestCase;
 			target = 98A98149697C80CEF8D5772791E92E66 /* FBSnapshotTestCase */;
-			targetProxy = F8CD5D238BAC9D35A4DC1DD739848014 /* PBXContainerItemProxy */;
+			targetProxy = 2E3F821FF26C1BC1963C69DBC79B1E1F /* PBXContainerItemProxy */;
+		};
+		3558AFFF7D99580243EE07E92B2E590D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-CLCDownload_Example";
+			target = B0BAB2F8026DDFA242AF86CDCA7E792F /* Pods-CLCDownload_Example */;
+			targetProxy = ED2D1B0849BE694B984F1B243874F73A /* PBXContainerItemProxy */;
+		};
+		88353EF5F813BCFA01EA1B078E8B142E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = CLCDownload;
+			target = C7889358B7C87A2AD2C30279898D5442 /* CLCDownload */;
+			targetProxy = B592DBA0CE21189111ADB8FEF783F5F3 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		1238B994C2083DF6FBCA24BBBDA381B6 /* Debug */ = {
+		1BCB4243E6F1AFE1F560FA9885AF2888 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F54E660F79A5221C48EA98C32B70C0AE /* CLCDownload.debug.xcconfig */;
+			baseConfigurationReference = 7EC69522F187C9F733D2933ADD793096 /* CLCDownload.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -703,6 +704,37 @@
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
+		};
+		30F12399C92597098EE85BD97E5FD92B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 29F61988988E62FF8261057ACABC8BB7 /* CLCDownload.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/CLCDownload/CLCDownload-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/CLCDownload/CLCDownload-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/CLCDownload/CLCDownload.modulemap";
+				PRODUCT_MODULE_NAME = CLCDownload;
+				PRODUCT_NAME = CLCDownload;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
 		};
 		33363F24A112293E768F404CA227C866 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -918,7 +950,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -956,49 +989,9 @@
 			};
 			name = Debug;
 		};
-		F57C54AB811F346EBEEE4E3E9542B6C3 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 649CD572C239C58AF31217D710586CD2 /* CLCDownload.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/CLCDownload/CLCDownload-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/CLCDownload/CLCDownload-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/CLCDownload/CLCDownload.modulemap";
-				PRODUCT_MODULE_NAME = CLCDownload;
-				PRODUCT_NAME = CLCDownload;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		009A8DAF828C164B519F1B0EC4EFABA2 /* Build configuration list for PBXNativeTarget "CLCDownload" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				1238B994C2083DF6FBCA24BBBDA381B6 /* Debug */,
-				F57C54AB811F346EBEEE4E3E9542B6C3 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		461391268B13BB0F5F08FEBE57B76643 /* Build configuration list for PBXNativeTarget "Pods-CLCDownload_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -1031,6 +1024,15 @@
 			buildConfigurations = (
 				3E39A517897BFCDD1DD7268CB1B69BE9 /* Debug */,
 				BF531801B332EDF71FA8F4F9667B86BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D9E85C87161B1CD2038F2D8BD3BA5C69 /* Build configuration list for PBXNativeTarget "CLCDownload" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1BCB4243E6F1AFE1F560FA9885AF2888 /* Debug */,
+				30F12399C92597098EE85BD97E5FD92B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
