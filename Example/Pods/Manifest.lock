@@ -1,0 +1,27 @@
+PODS:
+  - CLCDownload (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CLCDownload (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CLCDownload:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CLCDownload: 1966d969b62963b7174bed29500fa9220c7dc94a
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 1c131dfc34bcf710235e8de16e3937467df33f80
+
+COCOAPODS: 1.10.1

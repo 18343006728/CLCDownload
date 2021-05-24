@@ -1,0 +1,6 @@
+framework module CLCDownload {
+  umbrella header "CLCDownload-umbrella.h"
+
+  export *
+  module * { export * }
+}
